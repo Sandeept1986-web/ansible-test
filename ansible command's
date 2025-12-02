@@ -73,6 +73,8 @@ sudo docker inspect target2
 
 
 You will find the IPAddress like 172.17.0.3
+172.17.0.3
+172.17.0.4
 
 ----------------------------------
 
